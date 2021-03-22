@@ -7,4 +7,4 @@ mm = int(input("Enter month: "))
 
 # display the calendar
 print(calendar.month(yy, mm))
-time.sleep(10)
+time.sleep(30)
